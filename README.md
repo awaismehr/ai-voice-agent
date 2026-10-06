@@ -7,10 +7,6 @@ you picked. Conversations persist across reloads and restarts.
 Built as a take-home: a **Next.js 16** frontend, a separate **NestJS 12** API, the **Vercel AI SDK on
 both sides**, and **OpenRouter** for every model (chat, speech-to-text, text-to-speech) behind one key.
 
-| Conversation | Dark mode, empty state |
-|---|---|
-| ![A two-turn conversation](docs/conversation.png) | ![Empty state in dark mode](docs/empty-dark.png) |
-
 ## Features
 
 **The brief**
