@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.*
+!.env.example
+!.env.local.example
+backend/data/*.sqlite*
+backend/dist
+frontend/.next
+frontend/out
+*.tsbuildinfo
+.DS_Store
